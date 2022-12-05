@@ -1,0 +1,6 @@
+.scheduler-container {
+    height: calc(100vh - 50px - 200px);
+    width: 100vw;
+    background-color: rgb(99, 10, 110);
+ 
+}
